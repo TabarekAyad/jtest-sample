@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders apply now correctly 1`] = `
+<button>
+  hello
+</button>
+`;
